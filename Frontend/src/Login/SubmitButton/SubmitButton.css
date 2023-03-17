@@ -1,0 +1,18 @@
+.btn{
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    height: 45px;
+    outline: none;
+    width: 100%;
+    color: rgb(4, 52, 37);
+    background: rgba(98, 208, 181, 0.395);
+    cursor: pointer;
+    
+    transition: .3s ;
+}
+.btn:hover{
+    box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+}
+
+   

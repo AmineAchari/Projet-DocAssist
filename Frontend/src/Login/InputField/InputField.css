@@ -1,0 +1,12 @@
+.inputField .input{
+    height: 50px;
+    width: 87%;
+    border: none;
+    border-radius: 30px;
+    color: #000000 ;
+    font-size: 15px;
+    padding: 0 0 0 45px;
+    background: rgba(98, 208, 181, 0.395);
+    outline: none;
+    
+}

@@ -1,0 +1,13 @@
+header{
+    color: #000000 ;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+}
+img{
+    margin-left: 60px;
+    margin-bottom: 15px;
+}
+
+
